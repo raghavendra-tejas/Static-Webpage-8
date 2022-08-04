@@ -1,0 +1,63 @@
+.intro-section {
+  margin-left: 100px;
+}
+
+.left-section h1 {
+  margin-top: 150px;
+  font-size: 70px;
+  color: #3e4794;
+}
+
+.left-section h4 {
+  margin: 50px 0;
+  color: #727694;
+  font-size: xx-small;
+  line-height: 1.5;
+  font-weight: 100;
+}
+
+.left-section button {
+  margin-right: 100px;
+  background-color: #965cf2;
+  background-image: linear-gradient(to right, #965cf2, #ff8adc);
+  height: 40px;
+  width: 150px;
+  border-radius: 20px;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.backcover-img {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 70%;
+  padding-bottom: 20px;
+  z-index: -10;
+}
+
+.intro-img {
+  position: absolute;
+  z-index: -8;
+  right: 30px;
+  top: 100px;
+  width: 69%;
+  padding-bottom: 20px;
+}
+
+.vector-img {
+  position: absolute;
+  z-index: -8;
+  right: 62%;
+  top: 100%;
+  width: 6%;
+}
+
+.vector-dot {
+  position: absolute;
+  z-index: -8;
+  right: 63%;
+  top: 100.5%;
+  width: 1%;
+}

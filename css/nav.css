@@ -1,0 +1,32 @@
+.navBar {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  align-items: center;
+}
+
+.navBar img {
+  margin: 0 250px 0 100px;
+}
+
+.nav-items {
+  flex: 1;
+}
+
+.nav-items .nav-item {
+  display: inline;
+  margin-right: 50px;
+  cursor: pointer;
+}
+
+.navButton .signin-btn {
+  margin-right: 100px;
+  background-color: #965cf2;
+  background-image: linear-gradient(to right, #965cf2, #ff8adc);
+  height: 30px;
+  width: 100px;
+  border-radius: 15px;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+}
