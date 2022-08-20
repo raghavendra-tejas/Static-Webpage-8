@@ -5,7 +5,7 @@
 - This webpage was constructed by using only HTML and CSS as a markup and styling language respectively.
 - Webpage consists of two sections such as navigation section and main (content) section.
 - This webpage is currently hosted on netlify.
-- Note: This is not a mobile responsive webpage.
+- This is a all screen responsive webpage made using Media Query.
 
 ## Built with
 
@@ -30,6 +30,8 @@
 > z-index
 
 > linear-gradiant color transition on buttons
+
+> Media Query
 
 ## My info:
 
